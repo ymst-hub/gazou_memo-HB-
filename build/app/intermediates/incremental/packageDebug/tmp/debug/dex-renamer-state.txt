@@ -1,0 +1,4 @@
+#Thu Jul 14 22:54:03 JST 2022
+base.0=/Users/yy/Desktop/開発ファイル/Flutter/gazou_memo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
